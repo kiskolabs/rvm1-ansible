@@ -5,6 +5,8 @@
 rvm1_rubies:
   - 'ruby-2.2.1'
 
+rvm1_default_ruby_version: 'ruby-2.2.1'
+
 # Delete a specific version of ruby (ie. ruby-2.1.0)
 rvm1_delete_ruby:
 
