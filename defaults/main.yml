@@ -3,9 +3,9 @@
 # Install 1 or more versions of ruby
 # The last ruby listed will be set as the default ruby
 rvm1_rubies:
-  - 'ruby-2.2.1'
+  - 'ruby-2.2.2'
 
-rvm1_default_ruby_version: 'ruby-2.2.1'
+rvm1_default_ruby_version: 'ruby-2.2.2'
 
 # Delete a specific version of ruby (ie. ruby-2.1.0)
 rvm1_delete_ruby:
